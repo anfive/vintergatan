@@ -1,0 +1,6 @@
+[submodule "vintergatan/glfw"]
+	path = vintergatan/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "vintergatan/glew-cmake"]
+	path = vintergatan/glew-cmake
+	url = https://github.com/Perlmint/glew-cmake.git
